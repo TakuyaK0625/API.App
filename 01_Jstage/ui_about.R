@@ -6,13 +6,14 @@ tabItem_about <- tabItem(tabName = "about",
                        h3(strong("はじめに")),
                        p("このアプリはJstage APIを用いて検索した論文リストの集計、ダウンロードなどができるツールです。
                          コードの共有はいたしますが、使用に際しては以下のJstage APIの利用規約をご確認いただき、利用者の
-                         責任でご使用ください。"),
+                         責任でご利用ください。"),
                        br(),
                        p("https://www.jstage.jst.go.jp/static/pages/WebAPI/-char/ja"),
+                       br(),
                        
                        # 出典
                        h3(strong("出典")),
-                       p("KAKEN：科学研究費助成事業データベース（国立情報学研究所）（ https://kaken.nii.ac.jp/ ）をもとに作成"),
+                       p("「科学技術情報発信・流通総合システム」（J-STAGE）（国立研究開発法人科学技術振興機構）（https://www.jstage.jst.go.jp/browse/-char/ja）をもとに作成"),
                        br(),
                        
                        # 連絡先
