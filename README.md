@@ -5,5 +5,5 @@ https://www.jstage.jst.go.jp/static/pages/WebAPI/-char/ja
 
 # 使い方
 1. golobal.Rにあるパッケージをインストール<br>
-　　library()の中のやつを""で囲んでinstall.packages()関数を実行
+　library()の中のやつを""で囲んでinstall.packages()関数を実行
 2. app.Rを全選択の上で実行
