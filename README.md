@@ -4,5 +4,6 @@ Jstage APIを用いて、検索した論文リストの集計、ダウンロー�
 https://www.jstage.jst.go.jp/static/pages/WebAPI/-char/ja
 
 # 使い方
-1. golobal.Rにあるパッケージをインストール（install.packages()関数）
+1. golobal.Rにあるパッケージをインストール
+　　library()の中のやつを""で囲んでinstall.packages()関数を実行
 2. app.Rを全選択の上で実行
