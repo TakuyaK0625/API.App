@@ -4,7 +4,7 @@ tabItem_about <- tabItem(tabName = "about",
           tabsetPanel(
               tabPanel("はじめに", type = "tabs",
                        h3(strong("はじめに")),
-                       p("このアプリはJstage/CiNii Arcicles/CiNii Booksで検索できる論文/書籍/雑誌等の情報をAPIを用いて、取得するためのツールです。
+                       p("このアプリはJstage/CiNii Arcicles/CiNii Booksで検索できる論文/書籍/雑誌等の情報を、APIを用いて取得するためのツールです。
                          コードの共有はいたしますが、使用に際しては以下のそれぞれのAPIの利用規約を遵守いただき、利用者の責任においてご利用ください。
                          なお、CiNii Articles/Booksはappidが必要ですので、予めご用意ください"),
                        br(),
