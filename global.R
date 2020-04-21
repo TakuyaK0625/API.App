@@ -19,5 +19,4 @@ library(purrr)
 library(DT)
 library(plotly)
 
-library(readr)
 
