@@ -2,12 +2,22 @@
 # パッケージ
 # --------------------------------
 
+# Shiny関係
 library(shiny)
 library(shinydashboard)
-library(dplyr)
+
+# API ⇨ XML, Json操作
 library(httr)
 library(xml2)
-library(DT)
 library(jsonlite)
+
+# データの整形
+library(dplyr)
+library(purrr)
+
+# 可視化
+library(DT)
 library(plotly)
+
+library(readr)
 
