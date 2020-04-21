@@ -1,5 +1,9 @@
 # API.App
-このアプリはJstage/CiNii Arcicles/CiNii Booksで検索できる論文/書籍/雑誌等の情報をAPIを用いて、取得するためのツールです。コードの共有はいたしますが、使用に際しては以下のそれぞれのAPIの利用規約を遵守いただき、利用者の責任においてご利用ください。なお、CiNii Articles/Booksはappidが必要ですので、予めご用意ください。
+このアプリはJstage/CiNii Arcicles/CiNii Booksで検索できる論文/書籍/雑誌等の情報をAPIを用いて、取得するためのツールです。コードの共有はいたしますが、使用に際しては以下それぞれのAPIの利用規約を遵守いただき、利用者の責任においてご利用ください。
+
+## 備考
+* インターネット環境が必要です。
+* CiNii Articles/Booksはappidが必要ですので、予めご用意ください。
 
 ## 各APIの利用規約
 【Jstage APIの利用規約】  
