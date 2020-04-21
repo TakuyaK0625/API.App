@@ -8,7 +8,7 @@
 * https://support.nii.ac.jp/ja/cinii/terms
 
 ## 出典
-*「科学技術情報発信・流通総合システム」（J-STAGE）（国立研究開発法人科学技術振興機構）（https://www.jstage.jst.go.jp/browse/-char/ja）
+*「科学技術情報発信・流通総合システム」（J-STAGE）（国立研究開発法人科学技術振興機構）（https://www.jstage.jst.go.jp/browse/-char/ja）  
 *「NII学術情報ナビゲータ」（CiNIi）（国立情報学研究所（NII））（https://ci.nii.ac.jp）
 
 ## 使い方
