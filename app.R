@@ -6,8 +6,8 @@
 source("global.R", local = TRUE)
 source("00_About/ui_about.R", local = TRUE)
 source("01_Jstage/ui_jstage.R", local = TRUE)
-source("02_CiNIi_Articles/ui_cinii_A.R", local = TRUE)
-source("03_CiNIi_Books/ui_cinii_B.R", local = TRUE)
+source("02_CiNii_Articles/ui_cinii_A.R", local = TRUE)
+source("03_CiNii_Books/ui_cinii_B.R", local = TRUE)
 
 
 # --------------------------------
